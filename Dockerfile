@@ -1,2 +1,2 @@
 FROM node:16
-WORKDIR /opt/source
+WORKDIR /opt/source/project
