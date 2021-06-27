@@ -1,2 +1,2 @@
 FROM node:16
-WORKDIR /opt/react
+WORKDIR /opt/source
