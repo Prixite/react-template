@@ -15,6 +15,7 @@ function App () {
   } else {
     return (
       <ul>
+        <h1>React Template</h1>
         <li><a href='/profile'>Profile</a></li>
         <li><a href='/users'>Users</a></li>
         <li><a href='/countries'>Countries</a></li>
