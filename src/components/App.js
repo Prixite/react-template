@@ -1,6 +1,6 @@
-import { Profile } from './components/Profile'
-import { UserList } from './components/UserList'
-import { CountryList } from './components/CountryList'
+import { Profile } from './Profile'
+import { UserList } from './UserList'
+import { CountryList } from './CountryList'
 
 export default function App () {
   if (window.location.href.indexOf('/profile') >= 0) {
