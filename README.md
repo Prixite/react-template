@@ -21,5 +21,6 @@ npm start
 Run the linter by doing:
 
 ```
-npx standard
+./scripts/env.sh
+./scripts/lint.sh
 ```
